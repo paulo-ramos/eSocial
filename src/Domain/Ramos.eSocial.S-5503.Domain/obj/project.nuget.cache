@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i8isCd0WYCY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5503.Domain\\Ramos.eSocial.S-5503.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

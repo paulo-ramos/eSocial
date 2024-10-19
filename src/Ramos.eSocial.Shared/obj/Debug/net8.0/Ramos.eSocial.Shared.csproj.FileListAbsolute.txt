@@ -1,0 +1,12 @@
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\bin\Debug\net8.0\Ramos.eSocial.Shared.deps.json
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\bin\Debug\net8.0\Ramos.eSocial.Shared.dll
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\bin\Debug\net8.0\Ramos.eSocial.Shared.pdb
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\obj\Debug\net8.0\Ramos.eSocial.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\obj\Debug\net8.0\Ramos.eSocial.Shared.AssemblyInfoInputs.cache
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\obj\Debug\net8.0\Ramos.eSocial.Shared.AssemblyInfo.cs
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\obj\Debug\net8.0\Ramos.eSocial.Shared.csproj.CoreCompileInputs.cache
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\obj\Debug\net8.0\Ramos.eSocial.Shared.dll
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\obj\Debug\net8.0\refint\Ramos.eSocial.Shared.dll
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\obj\Debug\net8.0\Ramos.eSocial.Shared.pdb
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\obj\Debug\net8.0\ref\Ramos.eSocial.Shared.dll
+C:\Users\paulo\dev\eSocial\Ramos.eSocial\src\Ramos.eSocial.Shared\obj\Debug\net8.0\Ramos.eSocial.Shared.csproj.AssemblyReference.cache

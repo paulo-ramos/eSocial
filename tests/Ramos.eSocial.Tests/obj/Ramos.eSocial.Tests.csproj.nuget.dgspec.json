@@ -1,0 +1,3402 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\tests\\Ramos.eSocial.Tests\\Ramos.eSocial.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1000.Domain\\Ramos.eSocial.S-1000.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1000.Domain\\Ramos.eSocial.S-1000.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1000.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1000.Domain\\Ramos.eSocial.S-1000.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1000.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1005.Domain\\Ramos.eSocial.S-1005.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1005.Domain\\Ramos.eSocial.S-1005.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1005.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1005.Domain\\Ramos.eSocial.S-1005.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1005.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1010.Domain\\Ramos.eSocial.S-1010.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1010.Domain\\Ramos.eSocial.S-1010.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1010.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1010.Domain\\Ramos.eSocial.S-1010.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1010.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1020.Domain\\Ramos.eSocial.S-1020.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1020.Domain\\Ramos.eSocial.S-1020.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1020.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1020.Domain\\Ramos.eSocial.S-1020.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1020.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1070.Domain\\Ramos.eSocial.S-1070.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1070.Domain\\Ramos.eSocial.S-1070.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1070.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1070.Domain\\Ramos.eSocial.S-1070.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1070.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1200.Domain\\Ramos.eSocial.S-1200.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1200.Domain\\Ramos.eSocial.S-1200.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1200.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1200.Domain\\Ramos.eSocial.S-1200.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1200.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1202.Domain\\Ramos.eSocial.S-1202.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1202.Domain\\Ramos.eSocial.S-1202.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1202.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1202.Domain\\Ramos.eSocial.S-1202.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1202.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1207.Domain\\Ramos.eSocial.S-1207.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1207.Domain\\Ramos.eSocial.S-1207.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1207.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1207.Domain\\Ramos.eSocial.S-1207.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1207.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1210.Domain\\Ramos.eSocial.S-1210.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1210.Domain\\Ramos.eSocial.S-1210.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1210.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1210.Domain\\Ramos.eSocial.S-1210.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1210.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1260.Domain\\Ramos.eSocial.S-1260.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1260.Domain\\Ramos.eSocial.S-1260.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1260.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1260.Domain\\Ramos.eSocial.S-1260.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1260.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1270.Domain\\Ramos.eSocial.S-1270.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1270.Domain\\Ramos.eSocial.S-1270.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1270.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1270.Domain\\Ramos.eSocial.S-1270.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1270.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1280.Domain\\Ramos.eSocial.S-1280.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1280.Domain\\Ramos.eSocial.S-1280.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1280.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1280.Domain\\Ramos.eSocial.S-1280.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1280.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1298.Domain\\Ramos.eSocial.S-1298.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1298.Domain\\Ramos.eSocial.S-1298.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1298.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1298.Domain\\Ramos.eSocial.S-1298.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1298.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1299.Domain\\Ramos.eSocial.S-1299.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1299.Domain\\Ramos.eSocial.S-1299.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-1299.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1299.Domain\\Ramos.eSocial.S-1299.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1299.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2190.Domain\\Ramos.eSocial.S-2190.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2190.Domain\\Ramos.eSocial.S-2190.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2190.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2190.Domain\\Ramos.eSocial.S-2190.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2190.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2200.Domain\\Ramos.eSocial.S-2200.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2200.Domain\\Ramos.eSocial.S-2200.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2200.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2200.Domain\\Ramos.eSocial.S-2200.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2200.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2205.Domain\\Ramos.eSocial.S-2205.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2205.Domain\\Ramos.eSocial.S-2205.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2205.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2205.Domain\\Ramos.eSocial.S-2205.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2205.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2206.Domain\\Ramos.eSocial.S-2206.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2206.Domain\\Ramos.eSocial.S-2206.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2206.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2206.Domain\\Ramos.eSocial.S-2206.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2206.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2210.Domain\\Ramos.eSocial.S-2210.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2210.Domain\\Ramos.eSocial.S-2210.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2210.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2210.Domain\\Ramos.eSocial.S-2210.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2210.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2220.Domain\\Ramos.eSocial.S-2220.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2220.Domain\\Ramos.eSocial.S-2220.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2220.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2220.Domain\\Ramos.eSocial.S-2220.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2220.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2221.Domain\\Ramos.eSocial.S-2221.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2221.Domain\\Ramos.eSocial.S-2221.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2221.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2221.Domain\\Ramos.eSocial.S-2221.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2221.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2230.Domain\\Ramos.eSocial.S-2230.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2230.Domain\\Ramos.eSocial.S-2230.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2230.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2230.Domain\\Ramos.eSocial.S-2230.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2230.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2231.Domain\\Ramos.eSocial.S-2231.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2231.Domain\\Ramos.eSocial.S-2231.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2231.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2231.Domain\\Ramos.eSocial.S-2231.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2231.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2240.Domain\\Ramos.eSocial.S-2240.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2240.Domain\\Ramos.eSocial.S-2240.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2240.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2240.Domain\\Ramos.eSocial.S-2240.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2240.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2298.Domain\\Ramos.eSocial.S-2298.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2298.Domain\\Ramos.eSocial.S-2298.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2298.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2298.Domain\\Ramos.eSocial.S-2298.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2298.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2299.Domain\\Ramos.eSocial.S-2299.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2299.Domain\\Ramos.eSocial.S-2299.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2299.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2299.Domain\\Ramos.eSocial.S-2299.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2299.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2300.Domain\\Ramos.eSocial.S-2300.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2300.Domain\\Ramos.eSocial.S-2300.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2300.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2300.Domain\\Ramos.eSocial.S-2300.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2300.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2306.Domain\\Ramos.eSocial.S-2306.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2306.Domain\\Ramos.eSocial.S-2306.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2306.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2306.Domain\\Ramos.eSocial.S-2306.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2306.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2399.Domain\\Ramos.eSocial.S-2399.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2399.Domain\\Ramos.eSocial.S-2399.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2399.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2399.Domain\\Ramos.eSocial.S-2399.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2399.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2400.Domain\\Ramos.eSocial.S-2400.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2400.Domain\\Ramos.eSocial.S-2400.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2400.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2400.Domain\\Ramos.eSocial.S-2400.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2400.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2405.Domain\\Ramos.eSocial.S-2405.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2405.Domain\\Ramos.eSocial.S-2405.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2405.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2405.Domain\\Ramos.eSocial.S-2405.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2405.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2410.Domain\\Ramos.eSocial.S-2410.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2410.Domain\\Ramos.eSocial.S-2410.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2410.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2410.Domain\\Ramos.eSocial.S-2410.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2410.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2416.Domain\\Ramos.eSocial.S-2416.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2416.Domain\\Ramos.eSocial.S-2416.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2416.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2416.Domain\\Ramos.eSocial.S-2416.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2416.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2418.Domain\\Ramos.eSocial.S-2418.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2418.Domain\\Ramos.eSocial.S-2418.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2418.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2418.Domain\\Ramos.eSocial.S-2418.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2418.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2420.Domain\\Ramos.eSocial.S-2420.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2420.Domain\\Ramos.eSocial.S-2420.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2420.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2420.Domain\\Ramos.eSocial.S-2420.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2420.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2500.Domain\\Ramos.eSocial.S-2500.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2500.Domain\\Ramos.eSocial.S-2500.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2500.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2500.Domain\\Ramos.eSocial.S-2500.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2500.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2501.Domain\\Ramos.eSocial.S-2501.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2501.Domain\\Ramos.eSocial.S-2501.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2501.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2501.Domain\\Ramos.eSocial.S-2501.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2501.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2555.Domain\\Ramos.eSocial.S-2555.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2555.Domain\\Ramos.eSocial.S-2555.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-2555.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2555.Domain\\Ramos.eSocial.S-2555.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2555.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3000.Domain\\Ramos.eSocial.S-3000.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3000.Domain\\Ramos.eSocial.S-3000.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-3000.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3000.Domain\\Ramos.eSocial.S-3000.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3000.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3500.Domain\\Ramos.eSocial.S-3500.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3500.Domain\\Ramos.eSocial.S-3500.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-3500.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3500.Domain\\Ramos.eSocial.S-3500.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3500.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5001.Domain\\Ramos.eSocial.S-5001.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5001.Domain\\Ramos.eSocial.S-5001.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-5001.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5001.Domain\\Ramos.eSocial.S-5001.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5001.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5002.Domain\\Ramos.eSocial.S-5002.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5002.Domain\\Ramos.eSocial.S-5002.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-5002.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5002.Domain\\Ramos.eSocial.S-5002.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5002.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5003.Domain\\Ramos.eSocial.S-5003.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5003.Domain\\Ramos.eSocial.S-5003.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-5003.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5003.Domain\\Ramos.eSocial.S-5003.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5003.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5011.Domain\\Ramos.eSocial.S-5011.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5011.Domain\\Ramos.eSocial.S-5011.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-5011.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5011.Domain\\Ramos.eSocial.S-5011.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5011.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5012.Domain\\Ramos.eSocial.S-5012.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5012.Domain\\Ramos.eSocial.S-5012.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-5012.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5012.Domain\\Ramos.eSocial.S-5012.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5012.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5013.Domain\\Ramos.eSocial.S-5013.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5013.Domain\\Ramos.eSocial.S-5013.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-5013.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5013.Domain\\Ramos.eSocial.S-5013.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5013.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5501.Domain\\Ramos.eSocial.S-5501.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5501.Domain\\Ramos.eSocial.S-5501.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-5501.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5501.Domain\\Ramos.eSocial.S-5501.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5501.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5503.Domain\\Ramos.eSocial.S-5503.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5503.Domain\\Ramos.eSocial.S-5503.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-5503.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5503.Domain\\Ramos.eSocial.S-5503.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5503.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8200.Domain\\Ramos.eSocial.S-8200.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8200.Domain\\Ramos.eSocial.S-8200.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-8200.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8200.Domain\\Ramos.eSocial.S-8200.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8200.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8299.Domain\\Ramos.eSocial.S-8299.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8299.Domain\\Ramos.eSocial.S-8299.Domain.csproj",
+        "projectName": "Ramos.eSocial.S-8299.Domain",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8299.Domain\\Ramos.eSocial.S-8299.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8299.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj",
+        "projectName": "Ramos.eSocial.Shared",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\tests\\Ramos.eSocial.Tests\\Ramos.eSocial.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\tests\\Ramos.eSocial.Tests\\Ramos.eSocial.Tests.csproj",
+        "projectName": "Ramos.eSocial.Tests",
+        "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\tests\\Ramos.eSocial.Tests\\Ramos.eSocial.Tests.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\tests\\Ramos.eSocial.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1000.Domain\\Ramos.eSocial.S-1000.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1000.Domain\\Ramos.eSocial.S-1000.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1005.Domain\\Ramos.eSocial.S-1005.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1005.Domain\\Ramos.eSocial.S-1005.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1010.Domain\\Ramos.eSocial.S-1010.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1010.Domain\\Ramos.eSocial.S-1010.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1020.Domain\\Ramos.eSocial.S-1020.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1020.Domain\\Ramos.eSocial.S-1020.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1070.Domain\\Ramos.eSocial.S-1070.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1070.Domain\\Ramos.eSocial.S-1070.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1200.Domain\\Ramos.eSocial.S-1200.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1200.Domain\\Ramos.eSocial.S-1200.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1202.Domain\\Ramos.eSocial.S-1202.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1202.Domain\\Ramos.eSocial.S-1202.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1207.Domain\\Ramos.eSocial.S-1207.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1207.Domain\\Ramos.eSocial.S-1207.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1210.Domain\\Ramos.eSocial.S-1210.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1210.Domain\\Ramos.eSocial.S-1210.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1260.Domain\\Ramos.eSocial.S-1260.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1260.Domain\\Ramos.eSocial.S-1260.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1270.Domain\\Ramos.eSocial.S-1270.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1270.Domain\\Ramos.eSocial.S-1270.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1280.Domain\\Ramos.eSocial.S-1280.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1280.Domain\\Ramos.eSocial.S-1280.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1298.Domain\\Ramos.eSocial.S-1298.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1298.Domain\\Ramos.eSocial.S-1298.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1299.Domain\\Ramos.eSocial.S-1299.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-1299.Domain\\Ramos.eSocial.S-1299.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2190.Domain\\Ramos.eSocial.S-2190.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2190.Domain\\Ramos.eSocial.S-2190.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2200.Domain\\Ramos.eSocial.S-2200.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2200.Domain\\Ramos.eSocial.S-2200.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2205.Domain\\Ramos.eSocial.S-2205.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2205.Domain\\Ramos.eSocial.S-2205.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2206.Domain\\Ramos.eSocial.S-2206.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2206.Domain\\Ramos.eSocial.S-2206.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2210.Domain\\Ramos.eSocial.S-2210.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2210.Domain\\Ramos.eSocial.S-2210.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2220.Domain\\Ramos.eSocial.S-2220.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2220.Domain\\Ramos.eSocial.S-2220.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2221.Domain\\Ramos.eSocial.S-2221.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2221.Domain\\Ramos.eSocial.S-2221.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2230.Domain\\Ramos.eSocial.S-2230.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2230.Domain\\Ramos.eSocial.S-2230.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2231.Domain\\Ramos.eSocial.S-2231.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2231.Domain\\Ramos.eSocial.S-2231.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2240.Domain\\Ramos.eSocial.S-2240.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2240.Domain\\Ramos.eSocial.S-2240.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2298.Domain\\Ramos.eSocial.S-2298.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2298.Domain\\Ramos.eSocial.S-2298.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2299.Domain\\Ramos.eSocial.S-2299.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2299.Domain\\Ramos.eSocial.S-2299.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2300.Domain\\Ramos.eSocial.S-2300.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2300.Domain\\Ramos.eSocial.S-2300.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2306.Domain\\Ramos.eSocial.S-2306.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2306.Domain\\Ramos.eSocial.S-2306.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2399.Domain\\Ramos.eSocial.S-2399.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2399.Domain\\Ramos.eSocial.S-2399.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2400.Domain\\Ramos.eSocial.S-2400.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2400.Domain\\Ramos.eSocial.S-2400.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2405.Domain\\Ramos.eSocial.S-2405.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2405.Domain\\Ramos.eSocial.S-2405.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2410.Domain\\Ramos.eSocial.S-2410.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2410.Domain\\Ramos.eSocial.S-2410.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2416.Domain\\Ramos.eSocial.S-2416.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2416.Domain\\Ramos.eSocial.S-2416.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2418.Domain\\Ramos.eSocial.S-2418.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2418.Domain\\Ramos.eSocial.S-2418.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2420.Domain\\Ramos.eSocial.S-2420.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2420.Domain\\Ramos.eSocial.S-2420.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2500.Domain\\Ramos.eSocial.S-2500.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2500.Domain\\Ramos.eSocial.S-2500.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2501.Domain\\Ramos.eSocial.S-2501.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2501.Domain\\Ramos.eSocial.S-2501.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2555.Domain\\Ramos.eSocial.S-2555.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-2555.Domain\\Ramos.eSocial.S-2555.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3000.Domain\\Ramos.eSocial.S-3000.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3000.Domain\\Ramos.eSocial.S-3000.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3500.Domain\\Ramos.eSocial.S-3500.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-3500.Domain\\Ramos.eSocial.S-3500.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5001.Domain\\Ramos.eSocial.S-5001.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5001.Domain\\Ramos.eSocial.S-5001.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5002.Domain\\Ramos.eSocial.S-5002.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5002.Domain\\Ramos.eSocial.S-5002.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5003.Domain\\Ramos.eSocial.S-5003.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5003.Domain\\Ramos.eSocial.S-5003.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5011.Domain\\Ramos.eSocial.S-5011.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5011.Domain\\Ramos.eSocial.S-5011.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5012.Domain\\Ramos.eSocial.S-5012.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5012.Domain\\Ramos.eSocial.S-5012.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5013.Domain\\Ramos.eSocial.S-5013.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5013.Domain\\Ramos.eSocial.S-5013.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5501.Domain\\Ramos.eSocial.S-5501.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5501.Domain\\Ramos.eSocial.S-5501.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5503.Domain\\Ramos.eSocial.S-5503.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-5503.Domain\\Ramos.eSocial.S-5503.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8200.Domain\\Ramos.eSocial.S-8200.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8200.Domain\\Ramos.eSocial.S-8200.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8299.Domain\\Ramos.eSocial.S-8299.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Domain\\Ramos.eSocial.S-8299.Domain\\Ramos.eSocial.S-8299.Domain.csproj"
+              },
+              "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj": {
+                "projectPath": "C:\\Users\\paulo\\dev\\eSocial\\Ramos.eSocial\\src\\Ramos.eSocial.Shared\\Ramos.eSocial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

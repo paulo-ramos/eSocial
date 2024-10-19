@@ -1,0 +1,77 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="xunit" Version="2.5.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.5.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Ramos.eSocial.Shared\Ramos.eSocial.Shared.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1000.Domain\Ramos.eSocial.S-1000.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1005.Domain\Ramos.eSocial.S-1005.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1010.Domain\Ramos.eSocial.S-1010.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1020.Domain\Ramos.eSocial.S-1020.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1070.Domain\Ramos.eSocial.S-1070.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1200.Domain\Ramos.eSocial.S-1200.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1202.Domain\Ramos.eSocial.S-1202.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1207.Domain\Ramos.eSocial.S-1207.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1210.Domain\Ramos.eSocial.S-1210.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1260.Domain\Ramos.eSocial.S-1260.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1270.Domain\Ramos.eSocial.S-1270.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1280.Domain\Ramos.eSocial.S-1280.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1298.Domain\Ramos.eSocial.S-1298.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-1299.Domain\Ramos.eSocial.S-1299.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2190.Domain\Ramos.eSocial.S-2190.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2200.Domain\Ramos.eSocial.S-2200.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2205.Domain\Ramos.eSocial.S-2205.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2206.Domain\Ramos.eSocial.S-2206.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2210.Domain\Ramos.eSocial.S-2210.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2220.Domain\Ramos.eSocial.S-2220.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2221.Domain\Ramos.eSocial.S-2221.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2230.Domain\Ramos.eSocial.S-2230.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2231.Domain\Ramos.eSocial.S-2231.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2240.Domain\Ramos.eSocial.S-2240.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2298.Domain\Ramos.eSocial.S-2298.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2299.Domain\Ramos.eSocial.S-2299.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2300.Domain\Ramos.eSocial.S-2300.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2306.Domain\Ramos.eSocial.S-2306.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2399.Domain\Ramos.eSocial.S-2399.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2400.Domain\Ramos.eSocial.S-2400.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2405.Domain\Ramos.eSocial.S-2405.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2410.Domain\Ramos.eSocial.S-2410.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2416.Domain\Ramos.eSocial.S-2416.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2418.Domain\Ramos.eSocial.S-2418.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2420.Domain\Ramos.eSocial.S-2420.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2500.Domain\Ramos.eSocial.S-2500.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2501.Domain\Ramos.eSocial.S-2501.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-2555.Domain\Ramos.eSocial.S-2555.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-3000.Domain\Ramos.eSocial.S-3000.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-3500.Domain\Ramos.eSocial.S-3500.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-5001.Domain\Ramos.eSocial.S-5001.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-5002.Domain\Ramos.eSocial.S-5002.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-5003.Domain\Ramos.eSocial.S-5003.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-5011.Domain\Ramos.eSocial.S-5011.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-5012.Domain\Ramos.eSocial.S-5012.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-5013.Domain\Ramos.eSocial.S-5013.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-5501.Domain\Ramos.eSocial.S-5501.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-5503.Domain\Ramos.eSocial.S-5503.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-8200.Domain\Ramos.eSocial.S-8200.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Domain\Ramos.eSocial.S-8299.Domain\Ramos.eSocial.S-8299.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
