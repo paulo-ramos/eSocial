@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B7728109-863E-4130-AF51-22288427BE06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ramos.eSocial.Api", "src\Ramos.eSocial.Api\Ramos.eSocial.Api.csproj", "{8A54E116-D5C1-4F96-A3C8-11A288EB999D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ramos.eSocial.Application", "src\Ramos.eSocial.Application\Ramos.eSocial.Application.csproj", "{197ACF28-F18B-4B5D-94FB-3C470FED5921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ramos.eSocial.Domain", "src\Ramos.eSocial.Domain\Ramos.eSocial.Domain.csproj", "{9DAD46DD-7F10-443B-A992-E0B0FC6F3758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ramos.eSocial.Infrastructure", "src\Ramos.eSocial.Infrastructure\Ramos.eSocial.Infrastructure.csproj", "{A0D610DF-5D55-401B-A181-21DABE65A3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ramos.eSocial.Shared", "src\Ramos.eSocial.Shared\Ramos.eSocial.Shared.csproj", "{4DCDBEAA-B3DA-4C0E-80AE-5AF7AEC7A719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{2783006E-F11E-4186-8A29-52CEF203EAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ramos.eSocial.Tests", "tests\Ramos.eSocial.Tests\Ramos.eSocial.Tests.csproj", "{CE9D13DC-9595-4B29-8FA0-128F96D22E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A54E116-D5C1-4F96-A3C8-11A288EB999D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A54E116-D5C1-4F96-A3C8-11A288EB999D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A54E116-D5C1-4F96-A3C8-11A288EB999D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A54E116-D5C1-4F96-A3C8-11A288EB999D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197ACF28-F18B-4B5D-94FB-3C470FED5921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197ACF28-F18B-4B5D-94FB-3C470FED5921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197ACF28-F18B-4B5D-94FB-3C470FED5921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197ACF28-F18B-4B5D-94FB-3C470FED5921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAD46DD-7F10-443B-A992-E0B0FC6F3758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAD46DD-7F10-443B-A992-E0B0FC6F3758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAD46DD-7F10-443B-A992-E0B0FC6F3758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAD46DD-7F10-443B-A992-E0B0FC6F3758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D610DF-5D55-401B-A181-21DABE65A3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D610DF-5D55-401B-A181-21DABE65A3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D610DF-5D55-401B-A181-21DABE65A3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D610DF-5D55-401B-A181-21DABE65A3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCDBEAA-B3DA-4C0E-80AE-5AF7AEC7A719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCDBEAA-B3DA-4C0E-80AE-5AF7AEC7A719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCDBEAA-B3DA-4C0E-80AE-5AF7AEC7A719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCDBEAA-B3DA-4C0E-80AE-5AF7AEC7A719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9D13DC-9595-4B29-8FA0-128F96D22E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9D13DC-9595-4B29-8FA0-128F96D22E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9D13DC-9595-4B29-8FA0-128F96D22E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9D13DC-9595-4B29-8FA0-128F96D22E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8A54E116-D5C1-4F96-A3C8-11A288EB999D} = {B7728109-863E-4130-AF51-22288427BE06}
+		{197ACF28-F18B-4B5D-94FB-3C470FED5921} = {B7728109-863E-4130-AF51-22288427BE06}
+		{9DAD46DD-7F10-443B-A992-E0B0FC6F3758} = {B7728109-863E-4130-AF51-22288427BE06}
+		{A0D610DF-5D55-401B-A181-21DABE65A3F8} = {B7728109-863E-4130-AF51-22288427BE06}
+		{4DCDBEAA-B3DA-4C0E-80AE-5AF7AEC7A719} = {B7728109-863E-4130-AF51-22288427BE06}
+		{CE9D13DC-9595-4B29-8FA0-128F96D22E9F} = {2783006E-F11E-4186-8A29-52CEF203EAF7}
+	EndGlobalSection
+EndGlobal
