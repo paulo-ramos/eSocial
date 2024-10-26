@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ramos.eSocial.S1260.Infrastructure/1.0.0": {
+        "runtime": {
+          "Ramos.eSocial.S1260.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ramos.eSocial.S1260.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

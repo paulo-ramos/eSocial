@@ -1,0 +1,6 @@
+@Ramos.eSocial.S8200.Api_HostAddress = http://localhost:5054
+
+GET {{Ramos.eSocial.S8200.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

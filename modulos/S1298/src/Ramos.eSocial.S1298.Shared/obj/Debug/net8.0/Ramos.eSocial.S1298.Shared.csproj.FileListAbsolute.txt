@@ -1,0 +1,11 @@
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\bin\Debug\net8.0\Ramos.eSocial.S1298.Shared.deps.json
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\bin\Debug\net8.0\Ramos.eSocial.S1298.Shared.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\bin\Debug\net8.0\Ramos.eSocial.S1298.Shared.pdb
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\obj\Debug\net8.0\Ramos.eSocial.S1298.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\obj\Debug\net8.0\Ramos.eSocial.S1298.Shared.AssemblyInfoInputs.cache
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\obj\Debug\net8.0\Ramos.eSocial.S1298.Shared.AssemblyInfo.cs
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\obj\Debug\net8.0\Ramos.eSocial.S1298.Shared.csproj.CoreCompileInputs.cache
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\obj\Debug\net8.0\Ramos.eSocial.S1298.Shared.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\obj\Debug\net8.0\refint\Ramos.eSocial.S1298.Shared.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\obj\Debug\net8.0\Ramos.eSocial.S1298.Shared.pdb
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1298\src\Ramos.eSocial.S1298.Shared\obj\Debug\net8.0\ref\Ramos.eSocial.S1298.Shared.dll
