@@ -495,5 +495,6 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-./.idea
-*.sln.DotSettings.user
+.idea/
+*.DotSettings.user
+

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ramos.eSocial.S2416.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c7a5afe97e7967e066e22fac1bc5cfcddbca8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ramos.eSocial.S2416.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ramos.eSocial.S2416.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

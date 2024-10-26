@@ -1,4 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6719d881_002D8901_002D40c5_002Da034_002D07c3929017ae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_Not_Have_Error_When_Command_Is_Valid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests" Presentation="&amp;lt;modulos&amp;gt;\&amp;lt;S1000&amp;gt;\&amp;lt;tests&amp;gt;\&amp;lt;Ramos.eSocial.S1000.Tests&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
