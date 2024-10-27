@@ -97,3 +97,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S3500\tests\Ramos.eSocial.S3500.Tests\o
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S3500\tests\Ramos.eSocial.S3500.Tests\obj\Debug\net8.0\Ramos.eSocial.S3500.Tests.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S3500\tests\Ramos.eSocial.S3500.Tests\obj\Debug\net8.0\Ramos.eSocial.S3500.Tests.genruntimeconfig.cache
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S3500\tests\Ramos.eSocial.S3500.Tests\obj\Debug\net8.0\ref\Ramos.eSocial.S3500.Tests.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S3500\tests\Ramos.eSocial.S3500.Tests\obj\Debug\net8.0\Ramos.eSocial.S3500.Tests.sourcelink.json

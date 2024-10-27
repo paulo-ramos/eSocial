@@ -1,19 +1,29 @@
-﻿using FluentValidation;
+﻿using System.Diagnostics;
+using FluentValidation;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
 namespace Ramos.eSocial.S1000.Shared.Entities.Base;
 
 public abstract class Entity
 {
-    public Guid Id { get; private set; }
+    [BsonId]
+    [BsonRepresentation(BsonType.ObjectId)]
+    public string Id { get; private set; }
+
     public DateTime CreatedAt { get; private set; }
+    
     public DateTime UpdatedAt { get; private set; }
+    
+    [BsonIgnore]
     public bool IsValid { get; private set; }
+    
+    [BsonIgnore]
     public List<string> ValidationErrors { get; set; }
 
 
     protected Entity()
     {
-        Id = Guid.NewGuid();
         CreatedAt = DateTime.Now;
         UpdatedAt = DateTime.Now;
         IsValid = false;

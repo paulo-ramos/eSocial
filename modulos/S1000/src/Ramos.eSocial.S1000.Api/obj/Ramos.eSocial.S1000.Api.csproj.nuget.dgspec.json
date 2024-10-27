@@ -189,6 +189,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -251,6 +257,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -313,6 +325,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.10.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [

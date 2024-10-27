@@ -7,13 +7,43 @@ public class FakeDadosEmpregadorRepository : IDadosEmpregadorRepository
 {
     public List<DadosEmpregador> DadosEmpregador { get; private set; } = new List<DadosEmpregador>();
     
-    public bool DocumentExists(string document)
+    public async Task<List<DadosEmpregador>> GetAllAsync()
     {
-        return DadosEmpregador.Count > 0;
+        return this.DadosEmpregador;
     }
 
-    public void SaveDadosEmpregador(DadosEmpregador dadosEmpregador)
+    public async Task<DadosEmpregador?> GetByIdAsync(string id)
+    {
+        var result =  DadosEmpregador.FirstOrDefault(x => x.IdeEmpregador.NrInsc  == id);
+        return result;
+    }
+
+    public async Task<bool> ExistsAsync(string id)
+    {
+        var result =  DadosEmpregador.FirstOrDefault(x => x.IdeEmpregador.NrInsc  == id);
+        return result == null;
+    }
+
+    public async Task CreateAsync(DadosEmpregador dadosEmpregador)
     {
         DadosEmpregador.Add(dadosEmpregador);
+    }
+
+    public async Task UpdateAsync(string id, DadosEmpregador dadosEmpregadorIn)
+    {
+        var empregadorParaAtualizar =  DadosEmpregador.FirstOrDefault(x => x.IdeEmpregador.NrInsc  == id);
+        if (empregadorParaAtualizar != null)
+        {
+            empregadorParaAtualizar = dadosEmpregadorIn;
+        }
+    }
+
+    public async Task DeleteAsync(string id)
+    {
+        var empregadorParaAtualizar =  DadosEmpregador.FirstOrDefault(x => x.IdeEmpregador.NrInsc  == id);
+        if (empregadorParaAtualizar != null)
+        {
+            DadosEmpregador.Remove(empregadorParaAtualizar);
+        }
     }
 }

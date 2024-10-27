@@ -97,3 +97,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S1200\tests\Ramos.eSocial.S1200.Tests\o
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1200\tests\Ramos.eSocial.S1200.Tests\obj\Debug\net8.0\Ramos.eSocial.S1200.Tests.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1200\tests\Ramos.eSocial.S1200.Tests\obj\Debug\net8.0\Ramos.eSocial.S1200.Tests.genruntimeconfig.cache
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1200\tests\Ramos.eSocial.S1200.Tests\obj\Debug\net8.0\ref\Ramos.eSocial.S1200.Tests.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1200\tests\Ramos.eSocial.S1200.Tests\obj\Debug\net8.0\Ramos.eSocial.S1200.Tests.sourcelink.json

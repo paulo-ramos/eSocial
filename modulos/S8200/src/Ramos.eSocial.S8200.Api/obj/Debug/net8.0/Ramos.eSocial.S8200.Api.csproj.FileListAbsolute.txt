@@ -31,3 +31,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S8200\src\Ramos.eSocial.S8200.Api\obj\D
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S8200\src\Ramos.eSocial.S8200.Api\obj\Debug\net8.0\Ramos.eSocial.S8200.Api.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S8200\src\Ramos.eSocial.S8200.Api\obj\Debug\net8.0\Ramos.eSocial.S8200.Api.genruntimeconfig.cache
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S8200\src\Ramos.eSocial.S8200.Api\obj\Debug\net8.0\ref\Ramos.eSocial.S8200.Api.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S8200\src\Ramos.eSocial.S8200.Api\obj\Debug\net8.0\Ramos.eSocial.S8200.Api.sourcelink.json

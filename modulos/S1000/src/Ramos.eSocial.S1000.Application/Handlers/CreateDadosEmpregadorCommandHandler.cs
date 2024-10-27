@@ -18,7 +18,7 @@ public class CreateDadosEmpregadorCommandHandler: ICommandHandler<CreateDadosEmp
         _repository = repository;
     }
 
-    public ICommandResult Handle(CreateDadosEmpregadorCommand command)
+    public async Task<ICommandResult> Handle(CreateDadosEmpregadorCommand command)
     {
         //fail fast validations
         command.Validate();
@@ -43,14 +43,14 @@ public class CreateDadosEmpregadorCommandHandler: ICommandHandler<CreateDadosEmp
             return  new CommandResult(dadosEmpregador.IsValid, dadosEmpregador.ValidationErrors);
         }
         //verificar se ideEmpregador já está cadastrado
-        var empregadorExists = _repository.DocumentExists(dadosEmpregador.IdeEmpregador.NrInsc);
+        var empregadorExists = await _repository.ExistsAsync(dadosEmpregador.IdeEmpregador.NrInsc);
         if (empregadorExists)
         {
-            return  new CommandResult(false, "Empregador já existe com este documento!");
+            return  new CommandResult(false, "Empregador já cadastrado com este documento!");
         }
         
         // salvar as informações
-        _repository.SaveDadosEmpregador(dadosEmpregador);
+        await _repository.CreateAsync(dadosEmpregador);
         
         //retornar informações
         return new CommandResult(true, "Empregador cadastrado com sucesso!");

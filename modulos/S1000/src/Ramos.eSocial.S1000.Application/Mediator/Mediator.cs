@@ -12,10 +12,10 @@ public class Mediator : IMediator
         _serviceProvider = serviceProvider;
     }
 
-    public ICommandResult Send<TCommand>(TCommand command) where TCommand : ICommand
+    public async Task<ICommandResult> Send<TCommand>(TCommand command) where TCommand : ICommand
     {
         var handler = _serviceProvider.GetService(typeof(ICommandHandler<TCommand>)) as ICommandHandler<TCommand>;
-        return handler?.Handle(command);
+        return await handler?.Handle(command)!;
     }
 
 }

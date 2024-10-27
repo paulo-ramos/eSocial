@@ -105,3 +105,11 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\b
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\Ramos.eSocial.S1000.Shared.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\Ramos.eSocial.S1000.Application.dll
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\Ramos.eSocial.S1000.Application.pdb
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\DnsClient.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\Snappier.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\tests\Ramos.eSocial.S1000.Tests\obj\Debug\net8.0\Ramos.eSocial.S1000.Tests.sourcelink.json

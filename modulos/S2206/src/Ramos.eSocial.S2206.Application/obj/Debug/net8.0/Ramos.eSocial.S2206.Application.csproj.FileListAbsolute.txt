@@ -9,3 +9,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S2206\src\Ramos.eSocial.S2206.Applicati
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2206\src\Ramos.eSocial.S2206.Application\obj\Debug\net8.0\refint\Ramos.eSocial.S2206.Application.dll
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2206\src\Ramos.eSocial.S2206.Application\obj\Debug\net8.0\Ramos.eSocial.S2206.Application.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2206\src\Ramos.eSocial.S2206.Application\obj\Debug\net8.0\ref\Ramos.eSocial.S2206.Application.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S2206\src\Ramos.eSocial.S2206.Application\obj\Debug\net8.0\Ramos.eSocial.S2206.Application.sourcelink.json

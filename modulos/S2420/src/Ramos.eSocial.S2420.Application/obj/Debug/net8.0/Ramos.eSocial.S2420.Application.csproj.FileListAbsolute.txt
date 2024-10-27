@@ -9,3 +9,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S2420\src\Ramos.eSocial.S2420.Applicati
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2420\src\Ramos.eSocial.S2420.Application\obj\Debug\net8.0\refint\Ramos.eSocial.S2420.Application.dll
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2420\src\Ramos.eSocial.S2420.Application\obj\Debug\net8.0\Ramos.eSocial.S2420.Application.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2420\src\Ramos.eSocial.S2420.Application\obj\Debug\net8.0\ref\Ramos.eSocial.S2420.Application.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S2420\src\Ramos.eSocial.S2420.Application\obj\Debug\net8.0\Ramos.eSocial.S2420.Application.sourcelink.json

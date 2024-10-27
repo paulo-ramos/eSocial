@@ -9,3 +9,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S1270\src\Ramos.eSocial.S1270.Shared\ob
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1270\src\Ramos.eSocial.S1270.Shared\obj\Debug\net8.0\refint\Ramos.eSocial.S1270.Shared.dll
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1270\src\Ramos.eSocial.S1270.Shared\obj\Debug\net8.0\Ramos.eSocial.S1270.Shared.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1270\src\Ramos.eSocial.S1270.Shared\obj\Debug\net8.0\ref\Ramos.eSocial.S1270.Shared.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1270\src\Ramos.eSocial.S1270.Shared\obj\Debug\net8.0\Ramos.eSocial.S1270.Shared.sourcelink.json

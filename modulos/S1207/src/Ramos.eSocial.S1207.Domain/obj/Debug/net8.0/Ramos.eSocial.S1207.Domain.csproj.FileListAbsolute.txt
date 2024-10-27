@@ -9,3 +9,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S1207\src\Ramos.eSocial.S1207.Domain\ob
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1207\src\Ramos.eSocial.S1207.Domain\obj\Debug\net8.0\refint\Ramos.eSocial.S1207.Domain.dll
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1207\src\Ramos.eSocial.S1207.Domain\obj\Debug\net8.0\Ramos.eSocial.S1207.Domain.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1207\src\Ramos.eSocial.S1207.Domain\obj\Debug\net8.0\ref\Ramos.eSocial.S1207.Domain.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1207\src\Ramos.eSocial.S1207.Domain\obj\Debug\net8.0\Ramos.eSocial.S1207.Domain.sourcelink.json

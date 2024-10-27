@@ -31,3 +31,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S5012\src\Ramos.eSocial.S5012.Api\obj\D
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S5012\src\Ramos.eSocial.S5012.Api\obj\Debug\net8.0\Ramos.eSocial.S5012.Api.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S5012\src\Ramos.eSocial.S5012.Api\obj\Debug\net8.0\Ramos.eSocial.S5012.Api.genruntimeconfig.cache
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S5012\src\Ramos.eSocial.S5012.Api\obj\Debug\net8.0\ref\Ramos.eSocial.S5012.Api.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S5012\src\Ramos.eSocial.S5012.Api\obj\Debug\net8.0\Ramos.eSocial.S5012.Api.sourcelink.json

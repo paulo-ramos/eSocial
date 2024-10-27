@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Ramos.eSocial.S1000.Domain\Ramos.eSocial.S1000.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="3.0.0" />
+  </ItemGroup>
+
 </Project>

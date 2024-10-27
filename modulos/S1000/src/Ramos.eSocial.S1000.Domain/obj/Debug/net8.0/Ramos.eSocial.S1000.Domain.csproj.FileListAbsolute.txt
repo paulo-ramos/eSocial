@@ -13,3 +13,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\src\Ramos.eSocial.S1000.Domain\bi
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\src\Ramos.eSocial.S1000.Domain\bin\Debug\net8.0\Ramos.eSocial.S1000.Shared.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\src\Ramos.eSocial.S1000.Domain\obj\Debug\net8.0\Ramos.eSocial.S1000.Domain.csproj.AssemblyReference.cache
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\src\Ramos.eSocial.S1000.Domain\obj\Debug\net8.0\Ramos.eS.2B0251DE.Up2Date
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S1000\src\Ramos.eSocial.S1000.Domain\obj\Debug\net8.0\Ramos.eSocial.S1000.Domain.sourcelink.json

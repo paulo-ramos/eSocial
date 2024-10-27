@@ -4,5 +4,5 @@ namespace Ramos.eSocial.S1000.Shared.Handlers;
 
 public interface ICommandHandler<TCommand> where TCommand : ICommand
 {
-    ICommandResult Handle(TCommand command);
+    Task<ICommandResult> Handle(TCommand command);
 }

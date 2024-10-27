@@ -31,3 +31,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S2300\src\Ramos.eSocial.S2300.Api\obj\D
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2300\src\Ramos.eSocial.S2300.Api\obj\Debug\net8.0\Ramos.eSocial.S2300.Api.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2300\src\Ramos.eSocial.S2300.Api\obj\Debug\net8.0\Ramos.eSocial.S2300.Api.genruntimeconfig.cache
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2300\src\Ramos.eSocial.S2300.Api\obj\Debug\net8.0\ref\Ramos.eSocial.S2300.Api.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S2300\src\Ramos.eSocial.S2300.Api\obj\Debug\net8.0\Ramos.eSocial.S2300.Api.sourcelink.json

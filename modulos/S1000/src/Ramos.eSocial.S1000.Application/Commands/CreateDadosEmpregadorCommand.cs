@@ -1,4 +1,5 @@
-﻿using Ramos.eSocial.S1000.Domain.Entities;
+﻿using System.Text.Json.Serialization;
+using Ramos.eSocial.S1000.Domain.Entities;
 using Ramos.eSocial.S1000.Domain.ValueObjects;
 using Ramos.eSocial.S1000.Shared.Commands;
 
@@ -11,7 +12,11 @@ public class CreateDadosEmpregadorCommand : ICommand
     public InfoCadastro InfoCadastro { get; set; }
     public DadosIsencao DadosIsencao { get; set; }
     public InfoOrgInternacional InfoOrgInternacional { get; set; }
+    
+    [JsonIgnore]
     public bool IsValid { get; set; }
+    
+    [JsonIgnore]
     public List<string> ValidationErrors { get; set; } = new List<string>();
 
     

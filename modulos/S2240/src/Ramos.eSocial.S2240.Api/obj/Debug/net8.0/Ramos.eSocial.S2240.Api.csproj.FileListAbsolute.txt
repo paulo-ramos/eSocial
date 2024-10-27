@@ -31,3 +31,4 @@ C:\Users\paulo\dev\Ramos.eSocial\modulos\S2240\src\Ramos.eSocial.S2240.Api\obj\D
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2240\src\Ramos.eSocial.S2240.Api\obj\Debug\net8.0\Ramos.eSocial.S2240.Api.pdb
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2240\src\Ramos.eSocial.S2240.Api\obj\Debug\net8.0\Ramos.eSocial.S2240.Api.genruntimeconfig.cache
 C:\Users\paulo\dev\Ramos.eSocial\modulos\S2240\src\Ramos.eSocial.S2240.Api\obj\Debug\net8.0\ref\Ramos.eSocial.S2240.Api.dll
+C:\Users\paulo\dev\Ramos.eSocial\modulos\S2240\src\Ramos.eSocial.S2240.Api\obj\Debug\net8.0\Ramos.eSocial.S2240.Api.sourcelink.json
