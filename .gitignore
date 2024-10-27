@@ -497,4 +497,5 @@ $RECYCLE.BIN/
 
 .idea/
 *.DotSettings.user
-
+obj/
+bin/Debug/*

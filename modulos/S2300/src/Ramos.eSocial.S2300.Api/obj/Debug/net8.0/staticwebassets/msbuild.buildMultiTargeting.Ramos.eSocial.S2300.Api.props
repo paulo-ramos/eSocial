@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Ramos.eSocial.S2300.Api.props" />
-</Project>

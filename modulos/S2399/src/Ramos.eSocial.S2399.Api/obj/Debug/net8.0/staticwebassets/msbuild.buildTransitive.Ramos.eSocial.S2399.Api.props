@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Ramos.eSocial.S2399.Api.props" />
-</Project>
