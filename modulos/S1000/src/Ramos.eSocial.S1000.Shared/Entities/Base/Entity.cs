@@ -1,24 +1,24 @@
 ﻿using System.Diagnostics;
+using System.Text.Json.Serialization;
 using FluentValidation;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace Ramos.eSocial.S1000.Shared.Entities.Base;
 
+[BsonIgnoreExtraElements]
 public abstract class Entity
 {
-    [BsonId]
-    [BsonRepresentation(BsonType.ObjectId)]
-    public string Id { get; private set; }
-
     public DateTime CreatedAt { get; private set; }
     
     public DateTime UpdatedAt { get; private set; }
     
-    [BsonIgnore]
+    [BsonIgnore] 
+    [JsonIgnore]
     public bool IsValid { get; private set; }
     
-    [BsonIgnore]
+    [JsonIgnore]
+    [BsonIgnore] 
     public List<string> ValidationErrors { get; set; }
 
 

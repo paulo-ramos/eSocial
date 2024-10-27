@@ -21,6 +21,13 @@ public class CommandResult : ICommandResult
         Message = message;
     }
 
+    public CommandResult(object data)
+    {
+        Data = data;
+        Success = true;
+    }
+
+    public object Data { get; }
     public bool Success { get; private set; }
     public List<string> Message { get; private set; } = new List<string>();
 }

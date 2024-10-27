@@ -16,11 +16,18 @@ public class DadosEmpregadorRepository: IDadosEmpregadorRepository
 
     public async Task<List<DadosEmpregador>> GetAllAsync() => await _mongoCollection.Find(p => true).ToListAsync();
 
-    public async Task<DadosEmpregador?> GetByIdAsync(string id) => await _mongoCollection.Find(p => p.IdeEmpregador.NrInsc == id).FirstOrDefaultAsync();
+    public async Task<DadosEmpregador?> GetByIdAsync(string nrInsc)
+    {
+        var filter = Builders<DadosEmpregador>.Filter.Eq(p => p.IdeEmpregador.NrInsc, nrInsc);
+        var bozo =  await _mongoCollection.Find(filter).FirstOrDefaultAsync();
+        return bozo;
+    }
+
     public async Task<bool> ExistsAsync(string id)
     {
         var filter = Builders<DadosEmpregador>.Filter.Eq(p => p.IdeEmpregador.NrInsc, id);
-        return await _mongoCollection.Find(filter).AnyAsync();
+        var bozo =  await _mongoCollection.Find(filter).AnyAsync();
+        return bozo;
     }
 
     public async Task CreateAsync(DadosEmpregador dadosEmpregador) => await _mongoCollection.InsertOneAsync(dadosEmpregador);

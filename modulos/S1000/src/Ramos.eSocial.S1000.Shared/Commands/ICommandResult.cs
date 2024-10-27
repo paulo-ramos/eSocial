@@ -2,6 +2,7 @@
 
 public interface ICommandResult
 {
+    object Data { get; }
     bool Success { get; }
     List<string> Message { get; }
 }
