@@ -5,7 +5,6 @@ using Ramos.eSocial.S1000.Application.Commands;
 using Ramos.eSocial.S1000.Application.Mappers;
 using Ramos.eSocial.S1000.Application.Dtos;
 using Ramos.eSocial.Shared.Domain.Validation;
-using Ramos.eSocial.Shared.Util.Interface;
 
 namespace Ramos.eSocial.S1000.Application.Handlers;
 
@@ -23,17 +22,16 @@ public class IncluirEventoS1000Handler
         _idGenerator = idGenerator;
     }
 
-    public async Task<EventoS1000Dto> HandleAsync(IncluirEventoS1000Command comando)
+    public async Task<EventoS1000InclusaoDto> HandleAsync(IncluirEventoS1000Command comando)
     {
         var dto = comando.EventoDto;
         
-        //0. Gera o Id do evento de inclusão 
-        var id = _idGenerator.Gerar(dto.IdeEmpregador.NrInsc, CodigoEvento);
-
+        // 0. Valida se o DTO contém os dados obrigatórios
+        if (dto.IdeEvento is null || dto.IdeEmpregador is null || dto.Inclusao is null || string.IsNullOrWhiteSpace(dto.IdeEmpregador.NrInsc))
+            throw new ArgumentException("Dados obrigatórios ausentes.");
         
-        // 1. Valida se o DTO contém os dados obrigatórios
-        if (dto.IdeEvento is null || dto.IdeEmpregador is null || dto.Inclusao is null)
-            throw new ArgumentException("Dados obrigatórios ausentes no comando.");
+        // 1. Gera o Id do evento de inclusão 
+        var id = _idGenerator.Gerar(dto.IdeEmpregador.NrInsc, CodigoEvento);
 
         // 2. Mapeia DTO → Domínio
         var evento = EventoS1000InclusaoMapper.MapToDomain(
@@ -50,10 +48,30 @@ public class IncluirEventoS1000Handler
             throw new ValidationException($"Evento inválido: {mensagens}");
         }
 
-        // 4. Persiste
+        // 4 Verifica se o CNPJ já está cadastrado
+        var existente = await _repositorio.ObterPorNrInscAsync(dto.IdeEmpregador.NrInsc);
+        if (existente is not null)
+        {
+            throw new ValidationException($"CNPJ já cadastrado com o ID: {existente.Id}");
+        }
+
+        // 5. Persiste
         await _repositorio.IncluirAsync(evento);
 
-        // 5. Retorna DTO com ID preenchido
-        return dto with { Id = evento.Id };
+        // 6. Retorna DTO com ID preenchido
+        if (evento.InfoEmpregador == null)
+            throw new ArgumentNullException(nameof(evento.InfoEmpregador), "InfoEmpregador não pode ser nulo.");
+
+        return dto with
+        {
+            Id = id,
+            Inclusao = dto.Inclusao with
+            {
+                IdePeriodo = dto.Inclusao.IdePeriodo with
+                {
+                    FimValid = evento.InfoEmpregador.GetVigencia()!.FimValid
+                }
+            }
+        };
     }
 }

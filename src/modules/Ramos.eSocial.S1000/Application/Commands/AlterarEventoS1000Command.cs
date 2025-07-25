@@ -1,6 +1,5 @@
-﻿namespace Ramos.eSocial.S1000.Application.Commands;
+﻿using Ramos.eSocial.S1000.Application.Dtos;
 
-public class AlterarEventoS1000Command
-{
-    
-}
+namespace Ramos.eSocial.S1000.Application.Commands;
+
+public record AlterarEventoS1000Command(EventoS1000AlteracaoDto EventoDto);

@@ -28,14 +28,14 @@ public class EvtInfoEmpregador
     
     
     public static EvtInfoEmpregador CriarAlteracao(
+        string id,
         IdeEventoS1000 ideEvento,
         IdeEmpregador ideEmpregador,
-        Alteracao alteracao,
-        IEventIdGenerator idGen)
+        Alteracao alteracao)
     {
         return new EvtInfoEmpregador
         {
-            Id = idGen.Gerar(ideEmpregador.NrInsc, "S1000"),
+            Id = id,
             IdeEvento = ideEvento,
             IdeEmpregador = ideEmpregador,
             InfoEmpregador = new InfoEmpregador { Alteracao = alteracao }
@@ -45,20 +45,22 @@ public class EvtInfoEmpregador
     
     
     public static EvtInfoEmpregador CriarExclusao(
+        string id,
         IdeEventoS1000 ideEvento,
         IdeEmpregador ideEmpregador,
-        Exclusao exclusao,
-        IEventIdGenerator idGen)
+        Exclusao exclusao)
     {
         return new EvtInfoEmpregador
         {
-            Id = idGen.Gerar(ideEmpregador.NrInsc, "S1000"),
+            Id = id,
             IdeEvento = ideEvento,
             IdeEmpregador = ideEmpregador,
             InfoEmpregador = new InfoEmpregador { Exclusao = exclusao }
         };
     }
     
-    
-        
+    public void FecharVigencia(DateTime fimValid)
+    {
+        InfoEmpregador.FecharVigencia(fimValid);
+    }
 }

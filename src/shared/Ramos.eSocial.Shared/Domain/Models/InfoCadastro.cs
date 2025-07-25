@@ -5,6 +5,8 @@ namespace Ramos.eSocial.Shared.Domain.Models;
 public class InfoCadastro
 {
     public InfoCadastro(
+        string razaoSocial,
+        string nomeFantasia,
         EClassTributaria classTrib,
         EIndicativoCooperativa? indCoop,
         EIndicativoConstrutora? indConstr,
@@ -19,6 +21,8 @@ public class InfoCadastro
         DadosIsencao? dadosIsencao,
         InfoOrgInternacional? infoOrgInternacional)
     {
+        RazaoSocial = razaoSocial;
+        NomeFantasia = nomeFantasia;
         ClassTrib = classTrib;
         IndCoop = indCoop;
         IndConstr = indConstr;
@@ -34,6 +38,8 @@ public class InfoCadastro
         InfoOrgInternacional = infoOrgInternacional;
     }
 
+    public string RazaoSocial { get; }
+    public string NomeFantasia { get; }
     public EClassTributaria ClassTrib { get; }
     public EIndicativoCooperativa? IndCoop { get; }
     public EIndicativoConstrutora? IndConstr { get; }

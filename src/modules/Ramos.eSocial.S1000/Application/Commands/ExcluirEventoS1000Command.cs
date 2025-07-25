@@ -1,6 +1,5 @@
-﻿namespace Ramos.eSocial.S1000.Application.Commands;
+﻿using Ramos.eSocial.S1000.Application.Dtos;
 
-public class ExcluirEventoS1000Command
-{
-    
-}
+namespace Ramos.eSocial.S1000.Application.Commands;
+
+public record ExcluirEventoS1000Command(EventoS1000ExclusaoDto EventoDto);

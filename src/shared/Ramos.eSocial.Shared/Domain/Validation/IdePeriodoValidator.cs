@@ -8,12 +8,11 @@ public class IdePeriodoValidator : AbstractValidator<IdePeriodo>
     public IdePeriodoValidator()
     {
         RuleFor(x => x.IniValid)
-            .NotEqual(default(DateTime))
+            .NotEqual(DateTime.MinValue.Date)
             .WithMessage("IniValid é obrigatório.");
 
         RuleFor(x => x.FimValid)
-            .GreaterThanOrEqualTo(x => x.IniValid)
-            .When(x => x.FimValid.HasValue)
-            .WithMessage("FimValid deve ser igual ou posterior a IniValid.");
+            .GreaterThan(x => x.IniValid.Date)
+            .WithMessage("FimValid deve ser posterior a IniValid.");
     }
 }

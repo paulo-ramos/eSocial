@@ -9,8 +9,10 @@ public static class DependencyInjection
 {
     public static IServiceCollection AddS1000Module(this IServiceCollection services)
     {
-        services.AddScoped<IEventoS1000Repository, EventoS1000Repository>();
+        services.AddSingleton<IEventoS1000Repository, EventoS1000Repository>();
         services.AddScoped<IncluirEventoS1000Handler>();
+        services.AddScoped<AlterarEventoS1000Handler>();
+        services.AddScoped<ExcluirEventoS1000Handler>();
 
         return services;
     }

@@ -12,61 +12,59 @@ public static class EventoS1000InclusaoMapper
         IdeEmpregadorDto ideEmpregadorDto,
         InclusaoDto inclusaoDto)
     {
-        var ideEvento = new IdeEventoS1000(
-            ideEventoDto.TpAmb,
-            ideEventoDto.ProcEmi,
-            ideEventoDto.VerProc);
+        var ideEvento = MapIdeEvento(ideEventoDto);
+        var ideEmpregador = MapIdeEmpregador(ideEmpregadorDto);
+        var inclusao = MapInclusao(inclusaoDto);
 
-        var ideEmpregador = new IdeEmpregador(
-            ideEmpregadorDto.TpInsc,
-            ideEmpregadorDto.NrInsc);
+        return EvtInfoEmpregador.CriarInclusao(id, ideEvento, ideEmpregador, inclusao);
+    }
+    
+    
+    private static IdeEventoS1000 MapIdeEvento(IdeEventoS1000Dto dto) =>
+        new(dto.TpAmb, dto.ProcEmi, dto.VerProc);
 
-        var idePeriodo = new IdePeriodo(
-            inclusaoDto.IdePeriodo.IniValid,
-            inclusaoDto.IdePeriodo.FimValid);
+    private static IdeEmpregador MapIdeEmpregador(IdeEmpregadorDto dto) =>
+        new(dto.TpInsc, dto.NrInsc);
 
-        var dadosIsencao = inclusaoDto.InfoCadastro.DadosIsencao is not null
-            ? new DadosIsencao(
-                inclusaoDto.InfoCadastro.DadosIsencao.IdeMinLei,
-                inclusaoDto.InfoCadastro.DadosIsencao.NrCertif,
-                inclusaoDto.InfoCadastro.DadosIsencao.DtEmisCertif,
-                inclusaoDto.InfoCadastro.DadosIsencao.DtVencCertif,
-                inclusaoDto.InfoCadastro.DadosIsencao.NrProtRenov,
-                inclusaoDto.InfoCadastro.DadosIsencao.DtProtRenov,
-                inclusaoDto.InfoCadastro.DadosIsencao.DtDou,
-                inclusaoDto.InfoCadastro.DadosIsencao.PagDou)
-            : null;
-
-        var infoOrgInternacional = inclusaoDto.InfoCadastro.InfoOrgInternacional is not null
-            ? new InfoOrgInternacional(
-                inclusaoDto.InfoCadastro.InfoOrgInternacional.IndAcordoIsenMulta)
-            : null;
-
-        var infoCadastro = new InfoCadastro(
-            inclusaoDto.InfoCadastro.ClassTrib,
-            inclusaoDto.InfoCadastro.IndCoop,
-            inclusaoDto.InfoCadastro.IndConstr,
-            inclusaoDto.InfoCadastro.IndDesFolha,
-            inclusaoDto.InfoCadastro.IndOpcCP,
-            inclusaoDto.InfoCadastro.IndPorte,
-            inclusaoDto.InfoCadastro.IndOptRegEletron,
-            inclusaoDto.InfoCadastro.CnpjEFR,
-            inclusaoDto.InfoCadastro.DtTrans11096,
-            inclusaoDto.InfoCadastro.IndTribFolhaPisPasep,
-            inclusaoDto.InfoCadastro.IndPertIRRF,
-            dadosIsencao,
-            infoOrgInternacional);
-
-        var inclusao = new Inclusao
+    private static Inclusao MapInclusao(InclusaoDto dto) =>
+        new()
         {
-            IdePeriodo = idePeriodo,
-            InfoCadastro = infoCadastro
+            IdePeriodo = new IdePeriodo(dto.IdePeriodo.IniValid.Date, dto.IdePeriodo.FimValid.Date),
+            InfoCadastro = MapInfoCadastro(dto.InfoCadastro)
         };
 
-        return EvtInfoEmpregador.CriarInclusao(
-            id,
-            ideEvento,
-            ideEmpregador,
-            inclusao);
-    }
+    private static InfoCadastro MapInfoCadastro(InfoCadastroDto dto) =>
+        new(
+            dto.RazaoSocial,
+            dto.NomeFantasia,
+            dto.ClassTrib,
+            dto.IndCoop,
+            dto.IndConstr,
+            dto.IndDesFolha,
+            dto.IndOpcCP,
+            dto.IndPorte,
+            dto.IndOptRegEletron,
+            dto.CnpjEFR,
+            dto.DtTrans11096,
+            dto.IndTribFolhaPisPasep,
+            dto.IndPertIRRF,
+            MapDadosIsencao(dto.DadosIsencao),
+            MapInfoOrgInternacional(dto.InfoOrgInternacional)
+        );
+
+    private static DadosIsencao? MapDadosIsencao(DadosIsencaoDto? dto) =>
+        dto is null ? null :
+            new(
+                dto.IdeMinLei,
+                dto.NrCertif,
+                dto.DtEmisCertif,
+                dto.DtVencCertif,
+                dto.NrProtRenov,
+                dto.DtProtRenov,
+                dto.DtDou,
+                dto.PagDou
+            );
+
+    private static InfoOrgInternacional? MapInfoOrgInternacional(InfoOrgInternacionalDto? dto) =>
+        dto is null ? null : new(dto.IndAcordoIsenMulta);
 }

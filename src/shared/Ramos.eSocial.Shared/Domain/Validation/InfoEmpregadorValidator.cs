@@ -16,7 +16,7 @@ public class InfoEmpregadorValidator : AbstractValidator<InfoEmpregador>
                 if (x.Exclusao != null) count++;
                 return count == 1;
             })
-            .WithMessage("Deve ser informado exatamente e soente um dos grupos: inclusao, alteracao ou exclusao.");
+            .WithMessage("Deve ser informado exatamente e somente um dos grupos: inclusao, alteracao ou exclusao.");
 
         When(x => x.Inclusao != null, () =>
         {

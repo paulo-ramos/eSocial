@@ -2,6 +2,6 @@
 
 public record class IdePeriodoDto
 {
-    public DateTime IniValid { get; init; } = DateTime.Now;
-    public DateTime FimValid { get; set; } = DateTime.MaxValue;
+    public DateTime IniValid { get; init; } = DateTime.Now.Date;
+    public DateTime FimValid { get; set; } = DateTime.MaxValue.Date;
 }
