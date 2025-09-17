@@ -1,0 +1,54 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Calcuta.Hr.Api/Dockerfile
+    ports:
+      - "5000:8080"
+    depends_on:
+      - db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - postgres-network
+  db:
+    image: postgres:15
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - postgres-network
+
+  pgadmin:
+    image: dpage/pgadmin4
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "5050:80"
+    depends_on:
+      - db
+    networks:
+      - postgres-network
+
+  app:
+    build:
+      context: .
+      dockerfile: Calcuta.Hr.App/Dockerfile
+    depends_on:
+      - db
+    networks:
+      - postgres-network
+    environment:
+      - POSTGRES_HOST=db
+
+volumes:
+  pgdata:
+
+networks:
+  postgres-network:
+    driver: bridge

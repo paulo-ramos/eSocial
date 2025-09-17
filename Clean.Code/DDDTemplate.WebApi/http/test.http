@@ -1,0 +1,8 @@
+@module = test
+
+### Get test 
+# @no-log
+GET {{ENDPOINT}}/{{module}}/get
+X-Device-Id: {{DEVICE_ID}}
+X-User-Id: {{USER_ID}}
+Authorization: Bearer {{ACCESS_TOKEN}}

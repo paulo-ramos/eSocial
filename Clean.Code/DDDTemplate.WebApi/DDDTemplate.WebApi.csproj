@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <InvariantGlobalization>true</InvariantGlobalization>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    
+    <ItemGroup>
+      <Content Include="..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DDDTemplate.Application\DDDTemplate.Application.csproj" />
+      <ProjectReference Include="..\DDDTemplate.FastEndpoint\DDDTemplate.FastEndpoint.csproj" />
+      <ProjectReference Include="..\DDDTemplate.Infashtructure\DDDTemplate.Infashtructure.csproj" />
+      <ProjectReference Include="..\DDDTemplate.Persistence\DDDTemplate.Persistence.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,81 @@
+@module = employee
+
+### Get employee 
+# @no-log
+GET {{ENDPOINT}}/{{module}}/get/569ab6aa-73db-4634-b887-a38ac8f55be1
+X-Device-Id: {{DEVICE_ID}}
+X-User-Id: {{USER_ID}}
+Authorization: Bearer {{ACCESS_TOKEN}}
+
+### Create employee 
+# @no-log
+POST {{ENDPOINT}}/{{module}}/create
+Content-Type: application/json
+X-Device-Id: {{DEVICE_ID}}
+X-User-Id: {{USER_ID}}
+Authorization: Bearer {{ACCESS_TOKEN}}
+
+{
+  "code": "USR-004",
+  "avatarUrl": "",
+  "Fullname": "User 004",
+  "EmailAddress": "user002@gmail.com",
+  "MobileNumber": "0908726661",
+  "Address": "",
+  "IsBlocked":false,
+  "IsUserBlocked":false,
+  "Username": "user004",
+  "Password": "Abc@123",
+  "ConfirmPassword": "Abc@123",
+  "ExpirationDate": null,
+  "UserRole": 2,
+  "IdResources": [
+    "00000000-0000-0000-0002-000000000000",
+    "00000000-0000-0000-0003-000000000000"
+  ],
+  "IdUser": null
+}
+
+
+### Update employee 
+# @no-log
+PATCH {{ENDPOINT}}/{{module}}/update
+Content-Type: application/json
+X-Device-Id: {{DEVICE_ID}}
+X-User-Id: {{USER_ID}}
+Authorization: Bearer {{ACCESS_TOKEN}}
+
+{
+  "id": "943e2c0a-3f6c-494a-a944-fb22fe77aa01",
+  "code": "USR-002",
+  "avatarUrl": "",
+  "Fullname": "User 002",
+  "EmailAddress": "user002@gmail.com",
+  "MobileNumber": "0908726660",
+  "Address": "",
+  "IsBlocked":false,
+  "IsUserBlocked":false,
+  "Username": "user002",
+  "Password": "user002",
+  "ConfirmPassword": "user002",
+  "ExpirationDate": null,
+  "UserRole": 2,
+  "IdResources": [
+    "00000000-0000-0000-0002-000000000000",
+    "00000000-0000-0000-0003-000000000000"
+  ],
+  "IdUser": null
+}
+
+### Get employees 
+# @no-log
+// Params:
+// - default models in readme.md
+// - keyword: string
+// Sort (null | ascend | descend):
+// - name: default
+# @no-log
+GET {{ENDPOINT}}/{{module}}/list?page=1&pageSize=15
+X-Device-Id: {{DEVICE_ID}}
+X-User-Id: {{USER_ID}}
+Authorization: Bearer {{ACCESS_TOKEN}}

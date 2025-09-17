@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "00000000-0000-0000-0001-000000000000",
+    "Username": "admincp",
+    "Password": {
+      "Value": "Abc@123"
+    },
+    "IsBlocked": false,
+    "ExpirationDate": null,
+    "UserRole": 1
+  }
+]

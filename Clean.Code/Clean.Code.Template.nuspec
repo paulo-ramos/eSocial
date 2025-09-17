@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Clean.Code.Template</id>
+    <version>0.0.1</version>
+    <authors>Vule0310</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <readme>readme.md</readme>
+    <description>Creates the net 8 clean attritecture solution.</description>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>

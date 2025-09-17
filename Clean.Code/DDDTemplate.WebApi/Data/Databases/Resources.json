@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "00000000-0000-0000-0001-000000000000",
+    "Code": {
+      "Value": "PROFILE"
+    },
+    "Name": "Thông tin cá nhân",
+    "Description": "",
+    "IsBlocked": false
+  },
+  {
+    "Id": "00000000-0000-0000-0002-000000000000",
+    "Code": {
+      "Value": "EMPLOYEES"
+    },
+    "Name": "Nhân viên",
+    "Description": "",
+    "IsBlocked": false
+  },
+  {
+    "Id": "00000000-0000-0000-0003-000000000000",
+    "Code": {
+      "Value": "CUSTOMERS"
+    },
+    "Name": "Khách hàng",
+    "Description": "",
+    "IsBlocked": false
+  }
+]

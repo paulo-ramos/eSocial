@@ -1,0 +1,16 @@
+[
+  {
+    "IdUser": "00000000-0000-0000-0001-000000000000",
+    "Code": "Administrator",
+    "AvatarUrl": "",
+    "Fullname": "Administrator CP",
+    "EmailAddress": {
+      "Value": "vule0310@gmail.com"
+    },
+    "MobileNumber": {
+      "Value": "0908726642"
+    },
+    "Address": "",
+    "IsBlocked": false
+  }
+]

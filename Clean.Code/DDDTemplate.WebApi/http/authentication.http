@@ -1,0 +1,44 @@
+@module = authentication
+
+### Sign in
+# @no-log
+POST {{ENDPOINT}}/{{module}}/signin
+Content-Type: application/json
+X-Device-Id: {{DEVICE_ID}}
+
+//{
+//  "username": "admincp",
+//  "password": "Abc@123"
+//}
+
+{
+  "username": "user002",
+  "password": "Abc@123"
+}
+
+> {%
+    if (response.status === 200) {
+        client.global.set("ACCESS_TOKEN", response.body.accessToken);
+        client.global.set("REFRESH_TOKEN", response.body.refreshToken);
+        client.global.set("USER_ID", response.body.user.id);
+    }
+%}
+
+### RenewAccessToken
+# @no-log
+POST {{ENDPOINT}}/{{module}}/renew-accesstoken
+Content-Type: application/json
+X-Device-Id: {{DEVICE_ID}}
+X-User-Id: {{USER_ID}}
+
+{
+  "refreshToken": "{{REFRESH_TOKEN}}"
+}
+
+> {%
+    if (response.status === 200) {
+        client.global.set("ACCESS_TOKEN", response.body.accessToken);
+        client.global.set("REFRESH_TOKEN", response.body.refreshToken);
+        client.global.set("USER_ID", response.body.user.id);
+    }
+%}

@@ -1,0 +1,6 @@
+@Calcuta.Hr.Api_HostAddress = http://localhost:5200
+
+GET {{Calcuta.Hr.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

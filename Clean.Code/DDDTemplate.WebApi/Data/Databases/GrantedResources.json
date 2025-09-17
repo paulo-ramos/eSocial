@@ -1,0 +1,110 @@
+[
+  {
+    "IdResource": "00000000-0000-0000-0001-000000000000",
+    "Role": 1,
+    "Id": "00000000-0000-0000-0001-000000000001",
+    "Actions": [
+      "access:all",
+      "edit:all",
+      "add:all",
+      "delete:all"
+    ],
+    "Attributes": []
+  },
+  {
+    "IdResource": "00000000-0000-0000-0001-000000000000",
+    "Role": 2,
+    "Id": "00000000-0000-0000-0001-000000000002",
+    "Actions": [
+      "access:module",
+      "edit:module",
+      "add:module",
+      "delete:module"
+    ],
+    "Attributes": []
+  },
+  {
+    "IdResource": "00000000-0000-0000-0001-000000000000",
+    "Role": 3,
+    "Id": "00000000-0000-0000-0001-000000000003",
+    "Actions": [
+      "access:owner",
+      "edit:owner",
+      "add:owner",
+      "delete:owner"
+    ],
+    "Attributes": []
+  },
+  {
+    "IdResource": "00000000-0000-0000-0002-000000000000",
+    "Role": 1,
+    "Id": "00000000-0000-0000-0002-000000000001",
+    "Actions": [
+      "access:all",
+      "edit:all",
+      "add:all",
+      "delete:all"
+    ],
+    "Attributes": []
+  },
+  {
+    "IdResource": "00000000-0000-0000-0002-000000000000",
+    "Role": 2,
+    "Id": "00000000-0000-0000-0002-000000000002",
+    "Actions": [
+      "access:module",
+      "edit:module",
+      "add:module",
+      "delete:module"
+    ],
+    "Attributes": []
+  },
+  {
+    "IdResource": "00000000-0000-0000-0002-000000000000",
+    "Role": 3,
+    "Id": "00000000-0000-0000-0002-000000000003",
+    "Actions": [
+      "access:owner",
+      "edit:owner",
+      "add:owner",
+      "delete:owner"
+    ],
+    "Attributes": []
+  },
+  {
+    "IdResource": "00000000-0000-0000-0003-000000000000",
+    "Role": 1,
+    "Id": "00000000-0000-0000-0003-000000000001",
+    "Actions": [
+      "access:all",
+      "edit:all",
+      "add:all",
+      "delete:all"
+    ],
+    "Attributes": []
+  },
+  {
+    "IdResource": "00000000-0000-0000-0003-000000000000",
+    "Role": 2,
+    "Id": "00000000-0000-0000-0003-000000000002",
+    "Actions": [
+      "access:module",
+      "edit:module",
+      "add:module",
+      "delete:module"
+    ],
+    "Attributes": []
+  },
+  {
+    "IdResource": "00000000-0000-0000-0003-000000000000",
+    "Role": 3,
+    "Id": "00000000-0000-0000-0003-000000000003",
+    "Actions": [
+      "access:owner",
+      "edit:owner",
+      "add:owner",
+      "delete:owner"
+    ],
+    "Attributes": []
+  }
+]
